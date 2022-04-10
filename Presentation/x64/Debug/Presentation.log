@@ -1,0 +1,3 @@
+﻿  소스1.cpp
+C:\Users\USER\source\repos\Presentation\Presentation\소스1.cpp(282): warning C4715: 'Key_Select': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  Presentation.vcxproj -> C:\Users\USER\source\repos\Presentation\x64\Debug\Presentation.exe
